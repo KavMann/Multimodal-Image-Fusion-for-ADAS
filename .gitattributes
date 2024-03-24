@@ -6,3 +6,4 @@ Image filter=lfs diff=lfs merge=lfs -text
 Fusion/Multimodal-Image-Fusion/images/raw/IR/train filter=lfs diff=lfs merge=lfs -text
 Multimodal-Image-Fusion/images filter=lfs diff=lfs merge=lfs -text
 Multimodal-Image-Fusion/images/raw/RGB filter=lfs diff=lfs merge=lfs -text
+Multimodal-Image-Fusion/images/processed filter=lfs diff=lfs merge=lfs -text
