@@ -1,0 +1,14 @@
+#if not working use absolute path
+train: Multimodal-Image-Fusion\images\raw\IR\train\images
+val: Multimodal-Image-Fusion\images\raw\IR\valid\images
+test: Multimodal-Image-Fusion\images\raw\IR\test\images
+
+nc: 3
+names: ['bicycle', 'car', 'person']
+
+roboflow:
+  workspace: calib-buckton
+  project: infrared-6s0ke
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/calib-buckton/infrared-6s0ke/dataset/2
