@@ -1,7 +1,7 @@
 #if not working use absolute path
-train: Multimodal-Image-Fusion\images\raw\IR\train\images
-val: Multimodal-Image-Fusion\images\raw\IR\valid\images
-test: Multimodal-Image-Fusion\images\raw\IR\test\images
+train: ../images/raw/IR/train/images
+val: ../images/raw/IR/valid/images
+test: ../images/raw/IR/test/images
 
 nc: 3
 names: ['bicycle', 'car', 'person']

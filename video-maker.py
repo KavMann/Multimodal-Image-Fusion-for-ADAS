@@ -2,9 +2,9 @@ import cv2
 import os
 
 # Directory containing the images
-image_folder = './Multimodal-Image-Fusion/images/processed/Original/Set-1/IR'
+image_folder = '../Multimodal-Image-Fusion/images/processed/Original/Set-1/IR'
 # Output video file name
-video_name = './Multimodal-Image-Fusion/videos/set-1.mp4'
+video_name = '../Multimodal-Image-Fusion/videos/set-1.mp4'
 
 
 # Get the list of image files in the directory

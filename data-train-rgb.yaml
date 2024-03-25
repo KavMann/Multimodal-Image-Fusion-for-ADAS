@@ -1,0 +1,13 @@
+train: ../images/raw/RGB/train/images
+val: ../images/raw/RGB/valid/images
+test: ../images/raw/RGB/test/images
+
+nc: 14
+names: ['bike', 'bus', 'car', 'hydrant', 'light', 'motor', 'other vehicle', 'person', 'scooter', 'sign', 'skateboard', 'stroller', 'train', 'truck']
+
+roboflow:
+  workspace: rgb-coco2yolo
+  project: rgb-coco2yolo
+  version: 2
+  license: Public Domain
+  url: https://universe.roboflow.com/rgb-coco2yolo/rgb-coco2yolo/dataset/2
