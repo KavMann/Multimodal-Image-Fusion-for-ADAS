@@ -10,3 +10,4 @@ Multimodal-Image-Fusion/images/processed filter=lfs diff=lfs merge=lfs -text
 Multimodal-Image-Fusion/images/processed filter=lfs diff=lfs merge=lfs -text
 Multimodal-Image-Fusion/runs filter=lfs diff=lfs merge=lfs -text
 Multimodal-Image-Fusion/videos filter=lfs diff=lfs merge=lfs -text
+images/processed/formatted filter=lfs diff=lfs merge=lfs -text
