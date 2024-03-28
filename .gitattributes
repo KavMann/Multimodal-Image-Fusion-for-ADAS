@@ -14,3 +14,4 @@ images/processed/formatted filter=lfs diff=lfs merge=lfs -text
 Fusion/Multimodal-Image-Fusion/images/processed/formatted/set-1/fused filter=lfs diff=lfs merge=lfs -text
 C:/Users/dhruv/Desktop/Capstone filter=lfs diff=lfs merge=lfs -text
 images/processed/formatted/set-2 filter=lfs diff=lfs merge=lfs -text
+images/processed/formatted/set-3/fused/ filter=lfs diff=lfs merge=lfs -text
