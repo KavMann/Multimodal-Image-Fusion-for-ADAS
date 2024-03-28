@@ -1,13 +1,12 @@
 import cv2
 import os
 
-# Convert images to video for set 1-9
+# Convert images to video for set 1-9 and IR or Visual
+color='IR'
 for value in range(1,10):
-    # Input folder location
-    image_folder = f'../Multimodal-Image-Fusion/images/processed/Original/Set-{value}/IR'
-    # Output video file name
+    # I/O folder location
+    image_folder = f'../Multimodal-Image-Fusion/images/processed/Original/Set-{value}/{color}'
     video_name = f'../Multimodal-Image-Fusion/videos/set-{value}.mp4'
-
 
     # Get the list of image files in the directory
     images = [img for img in os.listdir(image_folder) if img.endswith(".jpg")]
