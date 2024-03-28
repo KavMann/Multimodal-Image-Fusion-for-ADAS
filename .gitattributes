@@ -18,3 +18,4 @@ images/processed/formatted/set-3/fused/ filter=lfs diff=lfs merge=lfs -text
 images/processed/formatted/set-4/fused/ filter=lfs diff=lfs merge=lfs -text
 images/processed/formatted/set-5/fused/ filter=lfs diff=lfs merge=lfs -text
 images/processed/formatted/set-6/fused/ filter=lfs diff=lfs merge=lfs -text
+images/processed/formatted/set-8/fused/ filter=lfs diff=lfs merge=lfs -text
