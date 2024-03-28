@@ -16,3 +16,4 @@ C:/Users/dhruv/Desktop/Capstone filter=lfs diff=lfs merge=lfs -text
 images/processed/formatted/set-2 filter=lfs diff=lfs merge=lfs -text
 images/processed/formatted/set-3/fused/ filter=lfs diff=lfs merge=lfs -text
 images/processed/formatted/set-4/fused/ filter=lfs diff=lfs merge=lfs -text
+images/processed/formatted/set-5/fused/ filter=lfs diff=lfs merge=lfs -text
