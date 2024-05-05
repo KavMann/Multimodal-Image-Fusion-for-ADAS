@@ -21,3 +21,4 @@ images/processed/formatted/set-6/fused/ filter=lfs diff=lfs merge=lfs -text
 images/processed/formatted/set-8/fused/ filter=lfs diff=lfs merge=lfs -text
 images/processed/formatted/set-9/fused/ filter=lfs diff=lfs merge=lfs -text
 videos/fused-videos/ filter=lfs diff=lfs merge=lfs -text
+results/fused/ filter=lfs diff=lfs merge=lfs -text
